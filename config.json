@@ -1,0 +1,81 @@
+
+{
+  "images": {
+    "destination": "Pictures",
+    "extension": [
+      "png",
+      "jpg",
+      "jpeg",
+      "gif",
+      "bmp",
+      "tiff",
+      "svg",
+      "webp",
+      "ico"
+    ]
+  },
+  "documents": {
+    "destination": "Documents",
+    "extension": [
+      "pdf",
+      "doc",
+      "docx",
+      "txt",
+      "xls",
+      "xlsx",
+      "ppt",
+      "pptx"
+    ]
+  },
+  "music": {
+    "destination": "Music",
+    "extension": [
+      "mp3",
+      "wav",
+      "aac",
+      "flac",
+      "m4a",
+      "wma"
+    ]
+  },
+  "videos": {
+    "destination": "Videos",
+    "extension": [
+      "mp4",
+      "mkv",
+      "avi",
+      "mov",
+      "wmv",
+      "flv"
+    ]
+  },
+  "archives": {
+    "destination": "Archives",
+    "extension": [
+      "zip",
+      "rar",
+      "tar",
+      "gz",
+      "7z"
+    ]
+  },
+  "scripts": {
+    "destination": "Scripts",
+    "extension": [
+      "py",
+      "js",
+      "sh",
+      "bat",
+      "rb",
+      "pl"
+    ]
+    },
+  "delete": {
+    "destination": "Trash",
+    "extension": [
+      "tmp",
+      "log",
+      "bak"
+    ]
+  }
+}
